@@ -14,9 +14,9 @@ Here user need to calculate the angle between hour and minute hands with below m
 - Complete circle has $360^o$ for both hour and minute hands.
 - So,
     - For minute hand angle will be changes $(360/60 = 6)^o$
-    - For hour hand angle will be changes $(360/60 = 6)^o$
-    - If Minute hand completed one circle $360^o$ then hours hand moves only $(360/12 )^o which is 30^o$ only
-    - That mean, every minute hour hand moves $(30/60)^o which is 0.5^o$ 
+    - For hour hand angle will be changes:
+        - If Minute hand completed one circle $360^o$ then hours hand moves only $(360/12 )^o$ which is $30^o$ only
+        - That mean, every minute hour hand moves $(30/60)^o$ which is $0.5^o$ 
 
 ### Let's start code for above points 
 
